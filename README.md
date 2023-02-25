@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VibhavariBellutagi19](https://github.com/VibhavariBellutagi19)
 
-- 💬 Ask me about **Spark, distributed systems, hive, kafka..**
+- 💬 Ask me about **Spark, Distributed systems, AWS - Glue, Stepfunctions, EMR, Redshift, DynamoDB, Lambda, Kafka..**
 
 - 📫 How to reach me **vibhavari.bellutagi@gmail.com**
 
