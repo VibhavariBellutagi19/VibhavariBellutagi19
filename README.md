@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vibhavari</h1>
 <h3 align="center">A passionate Data engineer from India</h3>
 
-- 🌱 I’m currently learning **Python, Low-level design**
+- 🌱 I’m currently learning **Data Modelling - Dimensional Modelling**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VibhavariBellutagi19](https://github.com/VibhavariBellutagi19)
 
